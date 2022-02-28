@@ -1,6 +1,6 @@
-<h1 align="center">
+
   ![Resultado final do projeto](assets/image/preview.png)
-</h1>
+
 
 <h4 align="center">
   Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
