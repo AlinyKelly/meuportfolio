@@ -10,15 +10,13 @@
 	🚧  Portfólio 🚀 Em construção...  🚧
 </h4>
 
-
-
 <h4 align="center"><a href="https://alinykelly.github.io/meuportfolio/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
 
 - **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
+- **Sobre:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
 - **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
 - **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
 - **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens com o foco no front-end;
@@ -29,16 +27,32 @@ O site é composto por 5 seções diferentes:
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML;
-- CSS
+- CSS.
 
 ---
 
-## 📚 Extras
-O site foi desenvolvido através da aula PORTFOLIO RÁPIDO E FÁCIL (CRIANDO PORTFOLIO DO ZERO COM HTML E CSS )
+## 🗺 Roadmap
 
-Ministrado pela Gabriela Pinheiro e você pode conferir no canal dela. <a href="https://youtu.be/jZurhyJTJOM">Clique para visitar o canal</a>.
+- [x] Página HOME - Concluído: 28/02/2022
+- [ ] Criação dos links para o Menu Hambúrguer - Concluído: Em breve
+- [ ] Implementar Responsividade - Desafio proposto pela Gabriela - Concluído: Em breve
+- [ ] Desenvolvimento da seção Serviços - Concluído: Em breve
 
+---
+
+## 📚 Como eu aprendi
+O site foi desenvolvido através da aula PORTFOLIO RÁPIDO E FÁCIL (CRIANDO PORTFOLIO DO ZERO COM HTML E CSS)
+
+Ministrado pela Gabriela Pinheiro e você pode conferir no canal dela.
+
+ [![Youtube Badge](https://img.shields.io/badge/-GabrielaPinheiro-60e1e0?style=flat-square&labelColor=60e1e0&logo=youtube&logoColor=1e1e2a&link=https://www.youtube.com/c/GabrielaPinheiro/featured)](https://www.youtube.com/c/GabrielaPinheiro/featured) [![Github Badge](https://img.shields.io/badge/-SpruceGabriela-60e1e0?style=flat-square&labelColor=60e1e0&logo=github&logoColor=1e1e2a&link=https://github.com/SpruceGabriela)](https://github.com/SpruceGabriela)
+ 
 Com o conhecimento adquirido na aula, novas implementações seram feitas em breve.
+
+---
+
+## 💜 Outras informações
+Este portfólio foi desenvolvido para a disciplina de Desenvolvimento Web, do curso do Análise e Desenvolvimento de Sistemas.
 
 ---
 
