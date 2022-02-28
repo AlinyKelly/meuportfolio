@@ -29,6 +29,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - HTML;
 - CSS.
 
+Criação e edição das imagens:
+
+- Canva
+
 ---
 
 ## 🗺 Roadmap
