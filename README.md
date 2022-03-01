@@ -1,9 +1,11 @@
 
-  ![Resultado final do projeto](assets/image/preview.png)
+  ![Resultado final do projeto](public/assets/image/preview.png)
 
 
 <h4 align="center">
-  Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
+  Este portfólio foi desenvolvido para a disciplina de Desenvolvimento Web, do curso do Análise e Desenvolvimento de Sistemas.
+  </br>  
+  Ele continuará sendo melhorado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
 </h4>
 
 <h4 align="center"> 
@@ -56,7 +58,7 @@ Com o conhecimento adquirido na aula, novas implementações seram feitas em bre
 ---
 
 ## 💜 Outras informações
-Este portfólio foi desenvolvido para a disciplina de Desenvolvimento Web, do curso do Análise e Desenvolvimento de Sistemas.
+
 
 ---
 
