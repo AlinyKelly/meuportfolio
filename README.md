@@ -53,7 +53,11 @@ Ministrado pela Gabriela Pinheiro e você pode conferir no canal dela.
 
  [![Youtube Badge](https://img.shields.io/badge/-GabrielaPinheiro-60e1e0?style=flat-square&labelColor=60e1e0&logo=youtube&logoColor=1e1e2a&link=https://www.youtube.com/c/GabrielaPinheiro/featured)](https://www.youtube.com/c/GabrielaPinheiro/featured) [![Github Badge](https://img.shields.io/badge/-SpruceGabriela-60e1e0?style=flat-square&labelColor=60e1e0&logo=github&logoColor=1e1e2a&link=https://github.com/SpruceGabriela)](https://github.com/SpruceGabriela)
  
-Com o conhecimento adquirido na aula, novas implementações seram feitas em breve.
+Confira também o canal no Youtube do Professor Bruno Lopes
+
+[![Youtube Badge](https://img.shields.io/badge/-ProfBrunoLopes-f44336?style=flat-square&labelColor=f44336&logo=youtube&logoColor=ffffff&link=https://www.youtube.com/c/ProfBrunoLopes/featured)](https://www.youtube.com/c/ProfBrunoLopes/featured)
+
+Com o conhecimento adquirido nas aulas, novas implementações seram feitas em breve.
 
 ---
 
